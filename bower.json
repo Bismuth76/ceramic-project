@@ -1,5 +1,5 @@
 {
-  "name": "polymer-starter-kit",
+  "name": "ceramic-project",
   "private": true,
   "dependencies": {
     "page": "visionmedia/page.js#~1.6.3"
