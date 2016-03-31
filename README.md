@@ -2,7 +2,7 @@
 
 ##Introduction
 
-The Ceramic Project is just a nut shell used to test our set of Polymer Webcomponents contained in [ceramic-presentation](https://github.com/Bismuth76/ceramic-presentation) (for more information about this projet, please refer to the [ceramic-presentation repository](https://github.com/Bismuth76/ceramic-presentation)).
+The Ceramic Project is just a nut shell used to test our set of Polymer Webcomponents contained in [ceramic-presentation](https://github.com/ceramic-components/ceramic-presentation) (for more information about this projet, please refer to the [ceramic-presentation repository](https://github.com/ceramic-components/ceramic-presentation)).
 
 ##Usage
 
