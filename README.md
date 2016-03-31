@@ -7,7 +7,7 @@ The Ceramic Project is just a nut shell used to test our set of Polymer Webcompo
 ##Usage
 
 ```shell
-git clone https://github.com/Bismuth76/ceramic-project.git
+git clone https://github.com/JulienFolliot/ceramic-project.git
 bower install
 npm install
 gulp serve
